@@ -39,7 +39,7 @@ incremental==17.5.0
 jdcal==1.4
 Js2Py==0.66
 kombu==3.0.37
-lxml==4.3.2
+lxml==4.6.5
 Markdown==3.1
 moviepy==1.0.0
 Naked==0.1.31
