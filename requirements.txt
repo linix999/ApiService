@@ -17,7 +17,7 @@ cssselect==1.0.3
 decorator==4.4.0
 defusedxml==0.5.0
 diff-match-patch==20181111
-Django==2.2
+Django==2.2.27
 django-celery==3.3.0
 django-cors-headers==3.0.1
 django-crispy-forms==1.7.2
